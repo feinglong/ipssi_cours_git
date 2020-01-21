@@ -1,7 +1,7 @@
 ---
 name : BUG 
 about : use this template for bug report
-title : [DATE] [BUG NAME]
+title : "[DATE]: [BUG NAME]"
 labels : ":bug: bug"
 assignees: feinglong
 ---
